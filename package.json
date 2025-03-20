@@ -1,7 +1,7 @@
 {
   "name": "finance-tools",
   "private": true,
-  "homepage": "https://yourusername.github.io/try1",
+  "homepage": "https://yourusername.github.io/financetools",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

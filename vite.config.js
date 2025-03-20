@@ -9,5 +9,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, 'src'),
     },
   },
-  base: '/try1/', // Yeh line add karo
+  base: '/financetools/', // Yeh line add karo
 });
