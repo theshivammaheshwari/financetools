@@ -46,8 +46,9 @@ npm run build
 npm run deploy
 ```
 
-## Contributing
-Feel free to submit issues or pull requests to enhance the project!
+## Unable to Run npx tailwindcss init -p - "Could Not Determine Executable to Run"
+$ npm install -D tailwindcss@3 postcss autoprefixer
+$ npx tailwindcss init -p
 
 ## License
 This project is licensed under the Indian Software License.
