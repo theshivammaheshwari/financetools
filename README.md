@@ -50,4 +50,4 @@ npm run deploy
 Feel free to submit issues or pull requests to enhance the project!
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Indian Software License.
